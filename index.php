@@ -1,4 +1,5 @@
 <?php
+//我也删除了一行代码
 header('Content-type:text/html;charset=utf8');
 echo '现在的时间：'.date('Y-m-d H:i:s');
 echo '<br>';
